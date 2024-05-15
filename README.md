@@ -1,11 +1,14 @@
-<div>
-  
-<div align="center">
-<h1>Hi there!!</h1>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+<div id="header" align="center">
+  <h1>
+  Hey there!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+
+
+
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing AI-powered solutions for various industries.

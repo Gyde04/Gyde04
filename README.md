@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to AI research and development.
 - 🤔 I’m looking for help with optimizing neural network architectures for performance.
 - 💬 Ask me about my experience with building and deploying machine learning models in production environments.
-- 📫 How to reach me: You can reach me via email at [example@email.com](mailto:fakileemmanuel@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fakile-emmanuel/).
+- 📫 How to reach me: You can reach me via email at [fakileemmanuel@gmail.com](mailto:fakileemmanuel@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fakile-emmanuel/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with different AI algorithms and creating AI-generated art in my spare time.
 
